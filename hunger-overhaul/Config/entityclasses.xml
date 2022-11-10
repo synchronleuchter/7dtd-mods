@@ -1,0 +1,60 @@
+<configs>
+	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group[@name='food/water balancing']">
+		<!-- Base value: 0.06 -->
+		<passive_effect name="WaterLossPerHealthPointGained" operation="base_set" value="0.18"/> <!-- healing damage costs you water -->
+		<!-- Regenerating wounds naturally consumes more energy (estimated base value: 0.045) -->
+		<passive_effect name="FoodLossPerHealthPointGained" operation="base_set" value="0.135"/>
+
+		<passive_effect name="WaterChangeOT" operation="base_subtract" value=".0037"/> <!-- water base drain, 13.3/hour -->
+		<passive_effect name="WaterChangeOT" operation="base_subtract" value="@_vehicleFood" tags="driving"/>
+		<passive_effect name="WaterLossPerStaminaPointGained" operation="base_set" value="0.0453"/> <!-- regening stamina costs you water (base: value="0.00453") -->
+
+		<!--<passive_effect name="HealthLossMaxMult" operation="base_set" value="0.15"/>--> <!-- taking damage blacks out part of the HP bar -->
+
+		<passive_effect name="FoodChangeOT" operation="base_subtract" value=".00277666666"/> <!-- hunger base drain, 10/hour -->
+		<passive_effect name="FoodChangeOT" operation="base_subtract" value="@_vehicleFood" tags="driving"/>
+		<passive_effect name="FoodLossPerStaminaPointGained" operation="base_set" value="0.0408"/> <!-- regening stamina costs food (base: value="0.00408") -->
+	</set>
+	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group[passive_effect[@name='HealthMax']]">
+		<passive_effect name="HealthMax" operation="base_set" value="100"/>
+		<passive_effect name="StaminaMax" operation="base_set" value="100"/>
+		<passive_effect name="WaterMax" operation="base_set" value="100"/>
+
+		<passive_effect name="HealthChangeOT" operation="base_set" value="0.017"> <!-- heal 1 point of (red) health / minute -->
+			<requirement name="NotHasBuff" buff="buffStatusHungry03"/>
+			<requirement name="NotHasBuff" buff="buffStatusThirsty03"/>
+		</passive_effect>
+
+		<!--<passive_effect name="HealthMaxModifierOT" operation="base_add" value=".00028"/>--> <!-- heal 1 point of MaxHealth / hour -->
+
+
+		<passive_effect name="DamageModifier" operation="perc_set" value="1"/>
+		<passive_effect name="DamageModifier" operation="perc_add" value="1" tags="head"/>
+		<passive_effect name="DismemberChance" operation="base_set" value=".05"/>
+
+		<passive_effect name="HarvestCount" operation="base_set" value="1" tags="allHarvest,oreWoodHarvest,cropHarvest,wildCropsHarvest"/>
+		<passive_effect name="HarvestCount" operation="base_set" value="1" tags="allToolsHarvest"/> <!-- all tools but not player hands, they come later in the OOO and set this back to 0. -->
+		<passive_effect name="HarvestCount" operation="base_set" value=".5" tags="butcherHarvest"/>
+
+		<passive_effect name="HarvestCount" operation="base_set" value="0" tags="WasteTreasuresAcidHarvest,WasteTreasuresCoffinHarvest,WasteTreasuresDoorHarvest"/>
+		<passive_effect name="HarvestCount" operation="base_set" value="0" tags="artOfMiningLuckyStrikeHarvest,WasteTreasuresHoneyHarvest,WasteTreasuresSinkHarvest,WasteTreasuresCompleteHarvest,bonusCropHarvest"/>
+
+		<passive_effect name="WalkSpeed" operation="base_set" value="1.53"/>
+		<passive_effect name="RunSpeed" operation="base_set" value="1.10"/>
+		<passive_effect name="CrouchSpeed" operation="base_set" value="1.04"/>
+		<passive_effect name="WalkSpeed" operation="base_set" value="1.38" tags="swimming"/>
+		<passive_effect name="RunSpeed" operation="base_set" value="0.99" tags="swimming"/>
+
+		<passive_effect name="Mobility" operation="base_set" value="1"/> <!-- Overall movement speed multiplier of 0 to 1 -->
+
+		<passive_effect name="JumpStrength" operation="base_set" value="0.16"/>
+			<!-- .125  is min jump with a broken leg, .16 = 1.5m easy, .175 = 2m barely, .186 = 2m plus a bit, .22 = 2.3m (1.6 + 39%), .276 = juuust 3.3m  (1.6 + 75%) -->
+
+		<passive_effect name="JumpStrength" operation="base_set" value="0.08" tags="crouching">
+			<requirement name="ProgressionLevel" progression_name="perkUrbanCombatJumping" operation="Equals" value="0"/>
+		</passive_effect>
+
+		<passive_effect name="StaminaChangeOT" operation="base_set" value="10"/>
+		<!-- <passive_effect name="StaminaChangeOT" operation="perc_add" value="-1.5" tags="running"/>the Ext Char Stats ignore the tag and display this as current -->
+	</set>
+</configs>

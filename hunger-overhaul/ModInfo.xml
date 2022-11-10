@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Hunger Overhaul" />
+		<Description value="Rebalances the calorie and water system to relax food economy when mostly idle but increase consumption dramatically under exhausting conditions." />
+		<Author value="Synchronleuchter"/>
+		<Version value="0.3" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,67 @@
+<configs>
+	<append xpath="/progression/attributes/attribute[@name='attStrength']">
+		<!-- Increase melee damage. -->
+		<effect_group>
+			<requirement name="ItemHasTags" tags="melee"/>
+			<passive_effect name="DamageModifier" operation="perc_add" level="1,10" value="0.05,0.5"/>
+		</effect_group>
+		<effect_group>
+			<requirement name="ItemHasTags" tags="gun"/>
+			<!-- Kick determines how much the aiming direction is changed, as if someone yanked your mouse when shooting. -->
+			<passive_effect name="KickDegreesVerticalMin" operation="perc_subtract" level="1,10" value="0.02,0.2"/>
+			<passive_effect name="KickDegreesVerticalMax" operation="perc_subtract" level="1,10" value="0.02,0.2"/>
+			<passive_effect name="KickDegreesHorizontalMin" operation="perc_subtract" level="1,10" value="0.02,0.2"/>
+			<passive_effect name="KickDegreesHorizontalMax" operation="perc_subtract" level="1,10" value="0.02,0.2"/>
+			<!-- Spread is how wide the crosshair is. The incremental spread multiplier makes the weapon less accurate the more you shoot. -->
+			<passive_effect name="IncrementalSpreadMultiplier" operation="perc_subtract" level="1,10" value="0.04,0.4"/>
+		</effect_group></append>
+	<append xpath="/progression/attributes/attribute[@name='attPerception']">
+		<effect_group>
+			<requirement name="ItemHasTags" tags="gun"/>
+			<!-- How fast the crosshair regenerates to its smallest state, higher is better. -->
+			<passive_effect name="WeaponHandling" operation="perc_add" level="1,10" value="0.05,0.5"/>
+			<!-- Size of the crosshair. -->
+			<passive_effect name="SpreadDegreesVertical" operation="perc_subtract" level="1,10" value="0.05,0.5"/>
+			<passive_effect name="SpreadDegreesHorizontal" operation="perc_subtract" level="1,10" value="0.05,0.5"/>
+			<!-- Extra accuracy bonus for aiming down sights. -->
+			<passive_effect name="SpreadMultiplierAiming" operation="perc_subtract" level="1,10" value="0.02,0.2"/>
+		</effect_group>
+		<effect_group>
+			<!-- Find more and better loot. -->
+			<passive_effect name="LootGamestage" operation="base_add" level="1,10" value="0.5,5.0"/>
+			<passive_effect name="LootGamestage" operation="perc_add" level="1,10" value="0.01,0.1"/>
+			<passive_effect name="LootQuantity" operation="perc_add" level="1,10" value="0.02,0.2"/>
+		</effect_group></append>
+	<append xpath="/progression/attributes/attribute[@name='attAgility']">
+		<effect_group>
+			<requirement name="ItemHasTags" tags="reloadPenalty"/>
+			<!-- How fast the crosshair regenerates to its smallest state, higher is better. -->
+			<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1,10" value="0.03,0.3"/>
+		</effect_group>
+		<effect_group>
+			<!-- "Dodge bonus" = higher armor class. -->
+			<passive_effect name="PhysicalDamageResist" operation="base_add" level="1,10" value="2.0,20.0"/>
+		</effect_group></append>
+	<append xpath="/progression/attributes/attribute[@name='attIntellect']">
+		<effect_group>
+			<!-- Increase block damage with mining tools due to knowledge of structual weaknesses. -->
+			<requirement name="ItemHasTags" tags="miningTool"/>
+			<passive_effect name="BlockDamage" operation="perc_add" level="1,10" value="0.05,0.5"/>
+		</effect_group>
+		<effect_group>
+			<!-- Increase block damage with explosives due to knowledge of structual weaknesses. -->
+			<requirement name="ItemHasTags" tags="perkDemolitionsExpert"/>
+			<passive_effect name="BlockDamage" operation="perc_add" level="1,10" value="0.1,1.0"/>
+		</effect_group>
+		<effect_group>
+			<!-- Increase effective range due to knowledge of ballistics and physics. NOTE: Shotguns have no range, shotgun ammo has. -->
+			<requirement name="ItemHasTags" tags="ranged"/>
+			<passive_effect name="MaxRange" operation="perc_add" level="1,10" value="0.05,0.5"/>
+			<passive_effect name="DamageFalloffRange" operation="perc_add" level="1,10" value="0.05,0.5"/>
+		</effect_group></append>
+	<append xpath="/progression/attributes/attribute[@name='attFortitude']">
+		<effect_group>
+			<!--  Resistance against debuffs that can happen on critical hits (injury and infection) -->
+			<passive_effect name="BuffResistance" tags="buffFatiguedTrigger,buffArmSprainedCHTrigger,buffLegSprainedCHTrigger,buffLaceration,buffInfectionCatch,buffAbrasionCatch,buffInjuryStunned01CHTrigger,buffInjuryBleedingTwo,buffInjuryBleedingBarbedWire" operation="base_add" level="1,10" value="0.05,0.5"/>
+		</effect_group></append>
+</configs>
