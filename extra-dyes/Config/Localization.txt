@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+modDyeTeal,item_modifiers,mod,,,Dye: Teal,,Farbstoff: Türkis,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal,Dye: Teal
+modDyeEmerald,item_modifiers,mod,,,Dye: Emerald,,Farbstoff: Smaragd,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald,Dye: Emerald
+modDyeRaspberry,item_modifiers,mod,,,Dye: Raspberry,,Farbstoff: Himbeere,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry,Dye: Raspberry
+modDyeLemon,item_modifiers,mod,,,Dye: Lemon,,Farbstoff: Zitrone,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon,Dye: Lemon
+modDyeLime,item_modifiers,mod,,,Dye: Lime,,Farbstoff: Limette,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime,Dye: Lime
+modDyeCobalt,item_modifiers,mod,,,Dye: Cobalt,,Farbstoff: Kobaltblau,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt,Dye: Cobalt

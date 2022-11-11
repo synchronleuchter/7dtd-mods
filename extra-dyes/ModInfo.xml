@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Extra Dyes" />
+		<Description value="Extra dyes for more item and vehicle customization and some dye mixing recipes" />
+		<Author value="Synchronleuchter" />
+		<Version value="0.1" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,9 @@
+<configs>
+	<append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeOrange"/></append>
+	<append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeEmerald"/></append>
+	<append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeTeal"/></append>
+	<append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeRaspberry"/></append>
+	<append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeLemon"/></append>
+	<append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeLime"/></append>
+	<append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeCobalt"/></append>
+</configs>

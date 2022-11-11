@@ -1,0 +1,33 @@
+<configs>
+	<append xpath="/recipes"><recipe name="modDyeOrange" count="1" craft_time="1">
+	<ingredient name="modDyeRed" count="1"/>
+	<ingredient name="modDyeYellow" count="1"/>
+</recipe></append>
+
+	<append xpath="/recipes"><recipe name="modDyeEmerald" count="1" craft_time="1">
+	<ingredient name="modDyeGreen" count="2"/>
+</recipe></append>
+
+	<append xpath="/recipes"><recipe name="modDyeTeal" count="1" craft_time="1">
+	<ingredient name="modDyeBlue" count="1"/>
+	<ingredient name="modDyeGreen" count="1"/>
+</recipe></append>
+
+	<append xpath="/recipes"><recipe name="modDyeRaspberry" count="1" craft_time="1">
+	<ingredient name="modDyePurple" count="1"/>
+	<ingredient name="modDyeRed" count="1"/>
+</recipe></append>
+
+	<append xpath="/recipes"><recipe name="modDyeLemon" count="1" craft_time="1">
+	<ingredient name="modDyeYellow" count="2"/>
+</recipe></append>
+
+	<append xpath="/recipes"><recipe name="modDyeLime" count="1" craft_time="1">
+	<ingredient name="modDyeYellow" count="1"/>
+	<ingredient name="modDyeGreen" count="1"/>
+</recipe></append>
+
+	<append xpath="/recipes"><recipe name="modDyeCobalt" count="1" craft_time="1">
+	<ingredient name="modDyeBlue" count="2"/>
+</recipe></append>
+</configs>
