@@ -1,0 +1,722 @@
+<configs>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_32_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,32,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_64_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,64,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_96_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,96,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_128_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,128,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_159_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,159,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_191_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,191,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_223_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,223,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb223_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="223,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb191_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="191,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb159_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="159,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb128_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="128,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb96_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="96,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb64_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="64,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb32_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="32,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_0">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,0"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_32">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,32"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_64">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,64"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_96">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,96"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_128">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,128"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_159">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,159"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_191">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,191"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_223">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,223"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_255_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,255,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_223_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,223,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_191_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,191,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_159_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,159,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_128_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,128,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_96_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,96,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_64_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,64,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_32_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,32,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb0_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="0,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb32_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="32,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb64_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="64,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb96_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="96,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb128_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="128,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb159_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="159,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb191_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="191,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb223_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="223,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_255">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,255"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_223">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,223"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_191">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,191"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_159">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,159"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_128">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,128"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_96">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,96"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_64">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,64"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+<append xpath="/items"><item name="pigment_dust_rgb255_0_32">
+        <property name="HoldType" value="45"/>
+        <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+        <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+        <property name="Material" value="MresourceCement"/>
+        <property name="Weight" value="1"/>
+        <property name="NoScrapping" value="true"/>
+        <property name="Stacknumber" value="6000"/>
+        <property name="EconomicValue" value="0"/>
+        <property name="EconomicBundleSize" value="6000"/>
+        <property name="Group" value="Resources"/>
+        <property name="CustomIcon" value="resourceCement"/>
+        <property name="CustomIconTint" value="255,0,32"/>
+		<property name="DescriptionKey" value="resource7DyesPigmentPowder"/>
+    </item></append>
+</configs>
