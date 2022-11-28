@@ -39175,7 +39175,11 @@
 		<property name="Material" value="Mpaint"/>
 		<property name="Weight" value="0"/>
 	    <property name="SellableToTrader" value="false"/>
-		
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Create_item" value="drinkJarRiverWater"/>
+			<property name="Create_item_count" value="1"/>
+		</property>
 		<item_property_overrides name="*">
 			<property name="TintColor" value="0,0,0"/>
 			<property name="CustomIconTint" value="0,0,0"/>
@@ -39222,7 +39226,11 @@
 		<property name="Material" value="Mpaint"/>
 		<property name="Weight" value="0"/>
 	    <property name="SellableToTrader" value="false"/>
-		
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Create_item" value="drinkJarRiverWater"/>
+			<property name="Create_item_count" value="1"/>
+		</property>
 		<item_property_overrides name="*">
 			<property name="TintColor" value="64,64,64"/>
 			<property name="CustomIconTint" value="64,64,64"/>
@@ -39269,7 +39277,11 @@
 		<property name="Material" value="Mpaint"/>
 		<property name="Weight" value="0"/>
 	    <property name="SellableToTrader" value="false"/>
-		
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Create_item" value="drinkJarRiverWater"/>
+			<property name="Create_item_count" value="1"/>
+		</property>
 		<item_property_overrides name="*">
 			<property name="TintColor" value="128,128,128"/>
 			<property name="CustomIconTint" value="128,128,128"/>
@@ -39316,7 +39328,11 @@
 		<property name="Material" value="Mpaint"/>
 		<property name="Weight" value="0"/>
 	    <property name="SellableToTrader" value="false"/>
-		
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Create_item" value="drinkJarRiverWater"/>
+			<property name="Create_item_count" value="1"/>
+		</property>
 		<item_property_overrides name="*">
 			<property name="TintColor" value="191,191,191"/>
 			<property name="CustomIconTint" value="191,191,191"/>
@@ -39363,7 +39379,11 @@
 		<property name="Material" value="Mpaint"/>
 		<property name="Weight" value="0"/>
 	    <property name="SellableToTrader" value="false"/>
-		
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Create_item" value="drinkJarRiverWater"/>
+			<property name="Create_item_count" value="1"/>
+		</property>
 		<item_property_overrides name="*">
 			<property name="TintColor" value="255,255,255"/>
 			<property name="CustomIconTint" value="255,255,255"/>
