@@ -1,0 +1,20 @@
+<configs>
+<append xpath="/ui_display_info/item_display">
+		<item_display_info display_type="medicalKitsKit" display_group="groupConsumables">
+			<display_entry name="foodHealthAmount" title_key="statHealthAmount"/>
+			<display_entry name="dhealDebuffs1" title_key="statHealDebuffs1" display_type="Percent"/>
+			<display_entry name="dhealAbrasionMult" title_key="statHealAbrasionMult" display_type="Percent"/>
+			<!--<display_entry name="dStopsBleeding" title_key="statStopsBleeding" display_type="Percent"/>-->
+			<!--<display_entry name="dStopsLaceration" title_key="statStopsLaceration" display_type="Percent"/>-->
+			<!--<display_entry name="dStunAndDiseaseResist" title_key="statStunAndDiseaseResist" display_type="Percent"/>-->
+			<display_entry name="dLimbHealRate" title_key="statLimbHealRate" display_type="Decimal2" display_leading_plus="true"/>
+			<!--<display_entry name="dStopsWeakness" title_key="statStopsWeakness" display_type="Percent"/>-->
+			<display_entry name="dStunResistDuration" title_key="statStunResistDuration" display_type="Time"/>
+			<display_entry name="dDiseaseResistDuration" title_key="statDiseaseResistDuration" display_type="Time"/>
+			<!--<display_entry name="dInstantHealth" title_key="statShowInstantHealth"/>-->
+			<!--<display_entry name="dHealthLoss" title_key="statHealthLoss" display_type="Percent" display_leading_plus="true"/>-->
+			<!--<display_entry name="dStunResist" title_key="statStunResist" display_type="Percent" />-->
+			<!--<display_entry name="dStopsConcussion" title_key="statStopsConcussion" display_type="Percent"/>-->
+			<display_entry name="$waterAmountAdd" title_key="statWaterAmount"/>
+		</item_display_info></append>
+</configs>

@@ -1,0 +1,7 @@
+<configs>
+<append xpath="/progression/perks/perk[@name='perkPhysician']/effect_group[1]">
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="2,4" value="1" tags="medicalImprovisedSplintKit,medicalImprovisedCastKit"/>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="3,4" value="1" tags="medicalEnhancedSplintKit,medicalEnhancedCastKit"/>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="4" value="1" tags="medicalEmergencySplintKit,medicalEmergencyCastKit"/>
+</append>
+</configs>

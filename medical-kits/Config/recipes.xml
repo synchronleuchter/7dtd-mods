@@ -1,0 +1,42 @@
+<configs>
+<append xpath="/recipes"><recipe name="medicalEmergencySplintKit" count="1" craft_time="20"  tags="learnable">
+	<ingredient name="medicalFirstAidKit" count="1"/>
+	<ingredient name="medicalSplint" count="1"/>
+	<ingredient name="drugPainkillers" count="1"/>
+	<ingredient name="drugVitamins" count="1"/>
+</recipe>
+<recipe name="medicalEnhancedSplintKit" count="1" craft_time="20"  tags="learnable">
+	<ingredient name="resourceSewingKit" count="1"/>
+	<ingredient name="medicalFirstAidBandage" count="1"/>
+	<ingredient name="medicalSplint" count="1"/>
+	<ingredient name="drugPainkillers" count="1"/>
+	<ingredient name="drugVitamins" count="1"/>
+</recipe>
+<recipe name="medicalImprovisedSplintKit" count="1" craft_time="20"  tags="learnable">
+	<ingredient name="resourceSewingKit" count="1"/>
+	<ingredient name="medicalAloeCream" count="1"/>
+	<ingredient name="medicalSplint" count="1"/>
+	<ingredient name="drugPainkillers" count="1"/>
+	<ingredient name="drugVitamins" count="1"/>
+</recipe>
+<recipe name="medicalEmergencyCastKit" count="1" craft_time="20"  tags="learnable">
+	<ingredient name="medicalFirstAidKit" count="1"/>
+	<ingredient name="medicalPlasterCast" count="1"/>
+	<ingredient name="drugPainkillers" count="1"/>
+	<ingredient name="drugVitamins" count="1"/>
+</recipe>
+<recipe name="medicalEnhancedCastKit" count="1" craft_time="20"  tags="learnable">
+	<ingredient name="resourceSewingKit" count="1"/>
+	<ingredient name="medicalFirstAidBandage" count="1"/>
+	<ingredient name="medicalPlasterCast" count="1"/>
+	<ingredient name="drugPainkillers" count="1"/>
+	<ingredient name="drugVitamins" count="1"/>
+</recipe>
+<recipe name="medicalImprovisedCastKit" count="1" craft_time="20"  tags="learnable">
+	<ingredient name="resourceSewingKit" count="1"/>
+	<ingredient name="medicalAloeCream" count="1"/>
+	<ingredient name="medicalPlasterCast" count="1"/>
+	<ingredient name="drugPainkillers" count="1"/>
+	<ingredient name="drugVitamins" count="1"/>
+</recipe></append>
+</configs>

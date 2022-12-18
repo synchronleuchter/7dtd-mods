@@ -1,0 +1,14 @@
+<configs>
+<append xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT0']">
+	<item name="medicalImprovisedSplintKitSchematic"/>
+	<item name="medicalImprovisedCastKitSchematic"/>
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT1']">
+	<item name="medicalEnhancedSplintKitSchematic"/>
+	<item name="medicalEnhancedCastKitSchematic"/>
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2']">
+	<item name="medicalEmergencySplintKitSchematic"/>
+	<item name="medicalEmergencyCastKitSchematic"/>
+</append>
+</configs>
