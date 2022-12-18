@@ -6,7 +6,7 @@
 	<property name="CustomIconTint" value="102,255,166"/>
 	<property name="DisplayType" value="medicalKitsKit"/>
 	<property name="Group" value="Science,Medical"/>
-	<property name="EconomicValue" value="200"/>
+	<property name="EconomicValue" value="261"/>
 	<property name="Stacknumber" value="5"/>
 	<property name="UnlockedBy" value="perkPhysician,medicalEmergencySplintKitSchematic"/>
 	<property name="DescriptionKey" value="medicalEmergencySplintKitDesc"/>
@@ -144,7 +144,7 @@
 	<property name="CustomIconTint" value="153,255,195"/>
 	<property name="DisplayType" value="medicalKitsKit"/>
 	<property name="Group" value="Science,Medical"/>
-	<property name="EconomicValue" value="200"/>
+	<property name="EconomicValue" value="98"/>
 	<property name="Stacknumber" value="5"/>
 	<property name="UnlockedBy" value="perkPhysician,medicalEnhancedSplintKitSchematic"/>
 	<property name="DescriptionKey" value="medicalEnhancedSplintKitDesc"/>
@@ -288,7 +288,7 @@
 	<property name="CustomIconTint" value="204,255,225"/>
 	<property name="DisplayType" value="medicalKitsKit"/>
 	<property name="Group" value="Science,Medical"/>
-	<property name="EconomicValue" value="200"/>
+	<property name="EconomicValue" value="88"/>
 	<property name="Stacknumber" value="5"/>
 	<property name="UnlockedBy" value="perkPhysician,medicalImprovisedSplintKitSchematic"/>
 	<property name="DescriptionKey" value="medicalImprovisedSplintKitDesc"/>
@@ -431,7 +431,7 @@
 	<property name="CustomIconTint" value="140,102,255"/>
 	<property name="DisplayType" value="medicalKitsKit"/>
 	<property name="Group" value="Science,Medical"/>
-	<property name="EconomicValue" value="200"/>
+	<property name="EconomicValue" value="290"/>
 	<property name="Stacknumber" value="5"/>
 	<property name="UnlockedBy" value="perkPhysician,medicalEmergencyCastKitSchematic"/>
 	<property name="DescriptionKey" value="medicalEmergencyCastKitDesc"/>
@@ -576,7 +576,7 @@
 	<property name="CustomIconTint" value="179,153,255"/>
 	<property name="DisplayType" value="medicalKitsKit"/>
 	<property name="Group" value="Science,Medical"/>
-	<property name="EconomicValue" value="200"/>
+	<property name="EconomicValue" value="98"/>
 	<property name="Stacknumber" value="5"/>
 	<property name="UnlockedBy" value="perkPhysician,medicalEnhancedCastKitSchematic"/>
 	<property name="DescriptionKey" value="medicalEnhancedCastKitDesc"/>
@@ -727,7 +727,7 @@
 	<property name="CustomIconTint" value="217,204,255"/>
 	<property name="DisplayType" value="medicalKitsKit"/>
 	<property name="Group" value="Science,Medical"/>
-	<property name="EconomicValue" value="200"/>
+	<property name="EconomicValue" value="88"/>
 	<property name="Stacknumber" value="5"/>
 	<property name="UnlockedBy" value="perkPhysician,medicalImprovisedCastKitSchematic"/>
 	<property name="DescriptionKey" value="medicalImprovisedCastKitDesc"/>
