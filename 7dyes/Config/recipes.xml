@@ -111,11 +111,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_42_38" count="2" craft_time="1">
@@ -230,11 +230,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_32_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_32_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_32_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_32_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_45_38" count="2" craft_time="1">
@@ -349,11 +349,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_64_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_64_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_64_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_64_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_48_38" count="2" craft_time="1">
@@ -468,11 +468,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_96_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_96_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_96_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_96_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_51_38" count="2" craft_time="1">
@@ -587,11 +587,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_128_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_128_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_128_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_128_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_54_38" count="2" craft_time="1">
@@ -706,11 +706,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_159_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_159_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_159_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_159_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_57_38" count="2" craft_time="1">
@@ -825,11 +825,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_191_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_191_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_191_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_191_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_61_38" count="2" craft_time="1">
@@ -944,11 +944,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_223_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_223_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_223_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_223_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_64_38" count="2" craft_time="1">
@@ -1063,11 +1063,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_61_64_38" count="2" craft_time="1">
@@ -1182,11 +1182,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_223_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb223_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_223_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb223_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_57_64_38" count="2" craft_time="1">
@@ -1301,11 +1301,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_191_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb191_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_191_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb191_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_54_64_38" count="2" craft_time="1">
@@ -1420,11 +1420,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_159_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb159_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_159_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb159_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_51_64_38" count="2" craft_time="1">
@@ -1539,11 +1539,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_128_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb128_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_128_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb128_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_48_64_38" count="2" craft_time="1">
@@ -1658,11 +1658,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_96_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb96_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_96_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb96_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_45_64_38" count="2" craft_time="1">
@@ -1777,11 +1777,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_64_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb64_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_64_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb64_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_42_64_38" count="2" craft_time="1">
@@ -1896,11 +1896,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_32_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb32_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_32_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb32_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_38" count="2" craft_time="1">
@@ -2015,11 +2015,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_0" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_0" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_0" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_42" count="2" craft_time="1">
@@ -2134,11 +2134,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_32" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_32" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_32" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_32" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_45" count="2" craft_time="1">
@@ -2253,11 +2253,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_64" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_64" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_64" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_64" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_48" count="2" craft_time="1">
@@ -2372,11 +2372,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_96" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_96" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_96" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_96" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_51" count="2" craft_time="1">
@@ -2491,11 +2491,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_128" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_128" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_128" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_128" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_54" count="2" craft_time="1">
@@ -2610,11 +2610,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_159" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_159" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_159" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_159" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_57" count="2" craft_time="1">
@@ -2729,11 +2729,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_191" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_191" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_191" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_191" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_61" count="2" craft_time="1">
@@ -2848,11 +2848,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_223" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_223" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_223" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_223" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_64_64" count="2" craft_time="1">
@@ -2967,11 +2967,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_255_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_255_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_255_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_61_64" count="2" craft_time="1">
@@ -3086,11 +3086,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_223_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_223_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_223_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_223_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_57_64" count="2" craft_time="1">
@@ -3205,11 +3205,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_191_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_191_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_191_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_191_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_54_64" count="2" craft_time="1">
@@ -3324,11 +3324,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_159_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_159_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_159_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_159_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_51_64" count="2" craft_time="1">
@@ -3443,11 +3443,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_128_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_128_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_128_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_128_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_48_64" count="2" craft_time="1">
@@ -3562,11 +3562,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_96_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_96_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_96_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_96_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_45_64" count="2" craft_time="1">
@@ -3681,11 +3681,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_64_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_64_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_64_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_64_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_42_64" count="2" craft_time="1">
@@ -3800,11 +3800,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_32_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_32_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_32_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_32_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_38_38_64" count="2" craft_time="1">
@@ -3919,11 +3919,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb0_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_0_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb0_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_42_38_64" count="2" craft_time="1">
@@ -4038,11 +4038,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_32_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb32_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_32_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb32_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_45_38_64" count="2" craft_time="1">
@@ -4157,11 +4157,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_64_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb64_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_64_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb64_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_48_38_64" count="2" craft_time="1">
@@ -4276,11 +4276,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_96_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb96_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_96_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb96_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_51_38_64" count="2" craft_time="1">
@@ -4395,11 +4395,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_128_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb128_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_128_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb128_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_54_38_64" count="2" craft_time="1">
@@ -4514,11 +4514,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_159_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb159_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_159_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb159_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_57_38_64" count="2" craft_time="1">
@@ -4633,11 +4633,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_191_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb191_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_191_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb191_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_61_38_64" count="2" craft_time="1">
@@ -4752,11 +4752,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_223_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb223_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_223_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb223_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_38_64" count="2" craft_time="1">
@@ -4871,11 +4871,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_255" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_255" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_255" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_38_61" count="2" craft_time="1">
@@ -4990,11 +4990,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_223" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_223" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_223" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_223" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_38_57" count="2" craft_time="1">
@@ -5109,11 +5109,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_191" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_191" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_191" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_191" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_38_54" count="2" craft_time="1">
@@ -5228,11 +5228,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_159" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_159" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_159" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_159" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_38_51" count="2" craft_time="1">
@@ -5347,11 +5347,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_128" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_128" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_128" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_128" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_38_48" count="2" craft_time="1">
@@ -5466,11 +5466,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_96" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_96" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_96" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_96" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_38_45" count="2" craft_time="1">
@@ -5585,11 +5585,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_64" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_64" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_64" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_64" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_38_42" count="2" craft_time="1">
@@ -5704,11 +5704,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_32" craft_area="chemistryStation" count="1" craft_time="1">
 	<ingredient name="pigment_dust_rgb255_0_32" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modPigmentRgb_255_0_32" craft_area="campfire" count="1" craft_time="3">
 	<ingredient name="pigment_dust_rgb255_0_32" count="1"/>
-	<ingredient name="drinkJarRiverWater" count="1"/>
+	<ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_64_64_64" count="2" craft_time="1">
@@ -5717,11 +5717,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modDyeRgb_0_0_0" craft_area="chemistryStation" count="1" craft_time="1">
     <ingredient name="resourceCoal" count="10"/>
-    <ingredient name="drinkJarRiverWater" count="1"/>
+    <ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modDyeRgb_0_0_0" craft_area="campfire" count="1" craft_time="3">
     <ingredient name="resourceCoal" count="10"/>
-    <ingredient name="drinkJarRiverWater" count="1"/>
+    <ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 <append xpath="/recipes"><recipe name="modDyeRgb_128_128_128" count="2" craft_time="1">
@@ -5749,11 +5749,11 @@
 </recipe></append>
 <append xpath="/recipes"><recipe name="modDyeRgb_255_255_255" craft_area="chemistryStation" count="1" craft_time="1">
     <ingredient name="resourcePotassiumNitratePowder" count="10"/>
-    <ingredient name="drinkJarRiverWater" count="1"/>
+    <ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 <append xpath="/recipes"><recipe name="modDyeRgb_255_255_255" craft_area="campfire" count="1" craft_time="3">
     <ingredient name="resourcePotassiumNitratePowder" count="10"/>
-    <ingredient name="drinkJarRiverWater" count="1"/>
+    <ingredient name="resourceSnowBall" count="1"/>
 </recipe></append>
 
 </configs>
