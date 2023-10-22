@@ -35,7 +35,7 @@
 	<append xpath="/progression/attributes/attribute[@name='attAgility']">
 		<effect_group>
 			<requirement name="ItemHasTags" tags="reloadPenalty"/>
-			<!-- How fast the crosshair regenerates to its smallest state, higher is better. -->
+			<!-- Reload speed, what's there to say? -->
 			<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1,10" value="0.03,0.3"/>
 		</effect_group>
 		<effect_group>
