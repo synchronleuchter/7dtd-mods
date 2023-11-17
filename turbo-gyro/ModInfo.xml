@@ -4,6 +4,6 @@
 		<Name value="Turbo Gyro" />
 		<Description value="Adds the Turbocopter (a gyrocopter with higher acceleration) and the jet engine upgrade for higher max speed." />
 		<Author value="Synchronleuchter"/>
-		<Version value="0.1" />
+		<Version value="0.2" />
 	</ModInfo>
 </xml>

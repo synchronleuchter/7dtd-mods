@@ -2,7 +2,7 @@
 <append xpath="/item_modifiers">
 <item_modifier name="modVehicleJetEngine" installable_tags="vengine" modifier_tags="speed" blocked_tags="noMods" type="attachment">
 		<property name="Extends" value="modGeneralMaster"/>
-		<property name="UnlockedBy" value="modVehicleSuperChargerSchematic"/>
+		<property name="UnlockedBy" value="modVehicleJetEngineSchematic"/>
 		<property name="TraderStageTemplate" value="modsTier4"/>
 		<property name="CustomIcon" value="modVehicleJetEngine"/>
 		<effect_group tiered="false">
