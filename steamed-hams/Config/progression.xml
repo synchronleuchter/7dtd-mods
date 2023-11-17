@@ -1,0 +1,6 @@
+<configs>
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingFood']/display_entry[contains(@icon, 'foodBaconAndEggs')]/unlock_entry[contains(@item, 'foodBaconAndEggs')]/@item">,foodSteamedClam</append>
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingFood']/display_entry[contains(@icon, 'foodSteakAndPotato')]/unlock_entry[contains(@item, 'foodSteakAndPotato')]/@item">,foodSteamedHam</append>
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingFood']/effect_group/passive_effect[contains(@tags, 'foodBaconAndEggs')]/@tags">,foodSteamedClam</append>
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingFood']/effect_group/passive_effect[contains(@tags, 'foodSteakAndPotato')]/@tags">,foodSteamedHam</append>
+</configs>
