@@ -7,9 +7,12 @@
 		<property name="CustomIcon" value="modVehicleJetEngine"/>
 		<effect_group tiered="false">
 			<passive_effect name="VehicleVelocityMaxPer" operation="perc_set" value="1.25"/> <!-- Same as supercharger -->
-			<passive_effect name="VehicleVelocityMaxTurboPer" operation="perc_set" value="9000.0"/> <!-- 39 Allows the gyro to reach mach 2 -->
-			<passive_effect name="VehicleFuelUsePer" operation="perc_set" value="4.0"/>
+			<passive_effect name="VehicleVelocityMaxTurboPer" operation="perc_set" value="9000.0"/> <!-- Absurd max speed -->
+			<passive_effect name="VehicleFuelUsePer" operation="perc_add" value="0.5"/> <!-- Increase fuel usage like a negative fuel saver -->
 		</effect_group>
 </item_modifier>
 </append>
+<!-- Change the way the fuel saver mod works to prevent it from cancelling out the increased fuel usage from the jet engine mod. -->
+<set xpath="/item_modifiers/item_modifier[@name='modVehicleFuelSaver']/effect_group/passive_effect[@name='VehicleFuelUsePer']/@operation">perc_add</set>
+<set xpath="/item_modifiers/item_modifier[@name='modVehicleFuelSaver']/effect_group/passive_effect[@name='VehicleFuelUsePer']/@value">-0.5</set>
 </configs>

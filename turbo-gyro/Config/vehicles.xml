@@ -49,7 +49,7 @@
 
 		<property class="fuelTank">
 			<property name="class" value="FuelTank"/>
-			<property name="capacity" value="80"/>
+			<property name="capacity" value="120"/> <!-- It burns more, so it carries more. -->
 		</property>
 
 		<property class="handlebars">
@@ -139,7 +139,7 @@
 		<property class="force1">
 			<property name="trigger" value="motor1"/>
 			<property name="type" value="relative"/>
-			<property name="force" value="0, 0, 0.40"/> <!-- Almost tripled acceleration force. -->
+			<property name="force" value="0, 0, 0.60"/> <!-- Increased acceleration force. -->
 		</property>
 
 		<property class="force2">
