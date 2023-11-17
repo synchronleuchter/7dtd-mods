@@ -1,0 +1,34 @@
+<configs>
+<append xpath="/items">
+<item name="modVehicleJetEngineSchematic">
+	<property name="Extends" value="schematicNoQualityMaster"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="CustomIcon" value="modVehicleJetEngine"/>
+	<property name="Unlocks" value="modVehicleJetEngine"/>
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="modVehicleJetEngine" operation="set" value="1"/>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+	</effect_group>
+</item>
+
+<item name="vehicleTurbocopterPlaceable">
+	<property name="Extends" value="vehicleMinibikePlaceable"/>
+	<property name="Tags" value="vehicle,vengine,vfuel,vseat,canHaveCosmetic"/>
+	<property name="Meshfile" value="@:Entities/Vehicles/gyrocopter_Prefab.prefab"/>
+	<property name="EconomicValue" value="75000"/>
+	<property name="TraderStageTemplate" value="vehicleTier5"/>
+	<property name="CustomIcon" value="vehicleGyrocopterPlaceable"/>
+	<property name="UnlockedBy" value="craftingVehicles"/>
+	<property class="Action1">
+		<property name="Class" value="SpawnVehicle"/>
+		<property name="Vehicle" value="vehicleTurbocopter"/>
+		<property name="VehicleSize" value="2.5, 2.5, 5.5"/>
+	</property>
+	<effect_group name="vehicleTurbocopterPlaceable" tiered="false">
+		<passive_effect name="ModSlots" operation="base_set" value="4"/>
+		<passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
+		<passive_effect name="DegradationMax" operation="base_set" value="3500"/>
+	</effect_group>
+</item>
+</append>
+</configs>

@@ -1,0 +1,6 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+modVehicleJetEngine,item_modifiers,Mod,,,Vehicle Jet Engine Mod,,,,,,,,,,
+modVehicleJetEngineDesc,item_modifiers,Mod,,,"Jam a scramjet into your vehicle and watch it become unreasonably fast when used in Turbo Mode. Increases max speed in turbo mode.",,,,,,,,,,,,
+modVehicleJetEngineSchematic,item_modifiers,Mod,,,Vehicle Jet Engine Mod Schematic,,,,,,,,,,,,
+vehicleTurbocopterPlaceable,item_modifiers,Mod,,,Turbocopter,,,,,,,,,,,,
+vehicleTurbocopter,item_modifiers,Mod,,,Turbocopter,,,,,,,,,,,,

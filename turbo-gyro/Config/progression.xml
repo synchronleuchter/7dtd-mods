@@ -1,0 +1,4 @@
+<configs>
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingVehicles']/display_entry[contains(@icon, 'vehicleGyrocopterPlaceable')]/unlock_entry[contains(@item, 'vehicleGyroCopterChassis')]/@item">,vehicleTurbocopterPlaceable</append>
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingVehicles']/effect_group/passive_effect[contains(@tags, 'vehicleGyroCopterChassis')]/@tags">,vehicleTurbocopterPlaceable</append>
+</configs>

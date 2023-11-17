@@ -1,0 +1,14 @@
+<configs>
+	<append xpath="/recipes"><recipe name="modVehicleJetEngine" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="100"/>
+	<ingredient name="resourceRadiator" count="4"/>
+	<ingredient name="resourceMechanicalParts" count="400"/>
+	<ingredient name="resourceElectricParts" count="140"/>
+</recipe>
+<recipe name="vehicleTurbocopterPlaceable" count="1" craft_time="270" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="vehicleGyrocopterPlaceable" count="1"/>
+	<ingredient name="resourceMechanicalParts" count="200"/>
+	<ingredient name="smallEngine" count="3"/>
+	<ingredient name="carBattery" count="2"/>
+</recipe></append>
+</configs>

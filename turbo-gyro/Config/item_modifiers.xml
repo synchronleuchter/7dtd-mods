@@ -1,0 +1,15 @@
+<configs>
+<append xpath="/item_modifiers">
+<item_modifier name="modVehicleJetEngine" installable_tags="vengine" modifier_tags="speed" blocked_tags="noMods" type="attachment">
+		<property name="Extends" value="modGeneralMaster"/>
+		<property name="UnlockedBy" value="modVehicleSuperChargerSchematic"/>
+		<property name="TraderStageTemplate" value="modsTier4"/>
+		<property name="CustomIcon" value="modVehicleJetEngine"/>
+		<effect_group tiered="false">
+			<passive_effect name="VehicleVelocityMaxPer" operation="perc_set" value="1.25"/> <!-- Same as supercharger -->
+			<passive_effect name="VehicleVelocityMaxTurboPer" operation="perc_set" value="9000.0"/> <!-- 39 Allows the gyro to reach mach 2 -->
+			<passive_effect name="VehicleFuelUsePer" operation="perc_set" value="4.0"/>
+		</effect_group>
+</item_modifier>
+</append>
+</configs>

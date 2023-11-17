@@ -1,0 +1,5 @@
+<configs>
+<append xpath="//trader_item_group[@name='schematicsVehiclesMods']">
+	<item name="modVehicleJetEngineSchematic"/>
+</append>
+</configs>
