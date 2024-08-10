@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
-		<Name value="Craftable Brass" />
-		<Description value="Craft Brass from Iron and Oil Shale at the Chemistry Station" />
-		<Author value="Synchronleuchter"/>
-		<Version value="1.0" />
-	</ModInfo>
+	<Name value="Craftable-Brass" />
+	<DisplayName value="Craftable Brass" />
+	<Description value="Craft Brass from Iron and Oil Shale at the Chemistry Station" />
+	<Author value="Synchronleuchter"/>
+	<Version value="2.0" />
 </xml>

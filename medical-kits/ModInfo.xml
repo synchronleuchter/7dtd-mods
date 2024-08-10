@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
-		<Name value="Medical Kits" />
-		<Description value="Adds craftable medical kits that combine multiple medical items in one." />
-		<Author value="Synchronleuchter"/>
-		<Version value="0.2" />
-	</ModInfo>
+	<Name value="Medical-Kits" />
+	<DisplayName value="Medical Kits" />
+	<Description value="Adds craftable medical kits that combine multiple medical items in one." />
+	<Author value="Synchronleuchter"/>
+	<Version value="1.0" />
 </xml>
