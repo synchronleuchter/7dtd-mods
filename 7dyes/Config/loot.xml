@@ -772,5 +772,5 @@
 <append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeRgb_128_128_128"/></append>
 <append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeRgb_191_191_191"/></append>
 <append xpath="/lootcontainers/lootgroup[@name='dyes']">	<item name="modDyeRgb_255_255_255"/></append>
-<append xpath="/lootcontainers/lootgroup[starts-with(@name, 'groupLaundry0')]"> <item name="dyes" count="1" loot_prob_template="low" /></append>
+<append xpath="/lootcontainers/lootgroup[starts-with(@name, 'groupLaundry0')]"> <item group="dyes" count="1" loot_prob_template="low" /></append>
 </configs>
